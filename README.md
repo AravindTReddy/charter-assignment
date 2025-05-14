@@ -1,4 +1,4 @@
-# Charter Take Home Assignment – Twitter Trending Hashtags
+# Twitter Trending Hashtags
 
 ## Overview
 
